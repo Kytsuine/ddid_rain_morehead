@@ -1,3 +1,7 @@
+# My contriutions
+During the course of this two-week project, I was more focused on the technical side of working with the data than on analysis work; I was primarily responsible for cleaning the data and transforming it into usable formats. I also created a shapefile of the TEIS service regions from their constituent counties and an approximation of which counties were in which regions (based on child county of residence, which was usually but not always in the service region the child was evaluated in.) Combining my work on that shapefile and the analysis work teammates had done in breaking down data by point of entry, I was able to create useful and easy-to-read maps. 
+This project best showcases my skills with string functions, cleaning data with logic, matplotlib, and geopandas.
+
 # Tennessee Early Intervention System
 [The Tennessee Early Intervention System (TEIS)](https://www.tn.gov/didd/for-consumers/tennessee-early-intervention-system-teis.html) is a program that provides services to children ages birth up to age three who have disabilities or other developmental delays.
 
